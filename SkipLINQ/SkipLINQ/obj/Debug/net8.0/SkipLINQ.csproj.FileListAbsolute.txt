@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\bin\Debug\net8.0\SkipLINQ.exe
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\bin\Debug\net8.0\SkipLINQ.deps.json
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\bin\Debug\net8.0\SkipLINQ.runtimeconfig.json
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\bin\Debug\net8.0\SkipLINQ.dll
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\bin\Debug\net8.0\SkipLINQ.pdb
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\SkipLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\SkipLINQ.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\SkipLINQ.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\SkipLINQ.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\SkipLINQ.dll
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\refint\SkipLINQ.dll
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\SkipLINQ.pdb
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\SkipLINQ.genruntimeconfig.cache
+C:\Users\opilane\source\repos\SkipLINQ\SkipLINQ\obj\Debug\net8.0\ref\SkipLINQ.dll
